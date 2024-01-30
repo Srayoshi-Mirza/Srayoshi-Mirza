@@ -1,5 +1,7 @@
 ### Hi there 👋
+<p align="center">
 # Welcome
+</p>
 ![Logo](1697389551039.jpg)
 <!--
 **Srayoshi-Mirza/Srayoshi-Mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

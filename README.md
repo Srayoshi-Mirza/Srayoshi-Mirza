@@ -9,21 +9,15 @@
 
 ## 🚀 About Me
 
-Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for crafting compelling narratives. Currently pursuing a Master's in Applied Statistics & Data Science at Jahangirnagar University, I graduated in Computer Science and Engineering from Bangladesh Army University of Engineering and Technology. My writing style, blending creativity with clarity, extends beyond words into code. Proficient in Python and a suite of libraries like Pandas, NumPy, and TensorFlow, I thrive on transforming complex data into actionable insights. My projects, from crafting a South Asian Covid19 Dashboard to delving into AI/ML, reflect my commitment to impactful storytelling and innovative problem-solving. Check out my journey below and let's connect on exciting tech adventures!
+Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for crafting compelling narratives. Currently pursuing a Master's in Applied Statistics & Data Science at Jahangirnagar University, I graduated in Computer Science and Engineering from Bangladesh Army University of Engineering and Technology. My writing style, blending creativity with clarity, extends beyond words into code. Proficient in Python and a suite of libraries like Pandas, NumPy, and TensorFlow, I thrive on transforming complex data into actionable insights. My projects, from crafting a South Asian COVID-19 Dashboard to delving into AI/ML, reflect my commitment to impactful storytelling and innovative problem-solving. Check out my journey below and let's connect on exciting tech adventures!
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshi-mirza.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srayoshi-mirza/)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srayoshim/)
-
-## Other Common Github Profile Sections
+## More About me.
 ### 👩‍💻 Currently working on...
-I am currently trying to be a Data Science professional who specialized in Public Health.
+I am currently trying to be a Data Science professional who specializes in Public Health.
 ### 🧠 Currently learning...
 I am currently learning about Genomic Data Science and Biostatistics.
 ### 👯‍♀️ Looking to collaborate on...
-I am currently looking for an opportunity to colab with any Genomic Data Analyst or Biostatistics specialist to help on their project to exceed own skills and learn from them.
+I am currently looking for an opportunity to collab with any Genomic Data Analyst or Biostatistics specialist to help on their project to exceed own skills and learn from them.
 ### 🤔 Looking for help with...
 Looking for help with Biostatistics and genomic data analysis.
 ### 💬 Ask me about...

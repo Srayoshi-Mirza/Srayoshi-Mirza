@@ -8,6 +8,8 @@
 Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for crafting compelling narratives. Currently pursuing a Master's in Applied Statistics & Data Science at Jahangirnagar University, I graduated in Computer Science and Engineering from Bangladesh Army University of Engineering and Technology. My writing style, blending creativity with clarity, extends beyond words into code. Proficient in Python and a suite of libraries like Pandas, NumPy, and TensorFlow, I thrive on transforming complex data into actionable insights. My projects, from crafting a South Asian COVID-19 Dashboard to delving into AI/ML, reflect my commitment to impactful storytelling and innovative problem-solving. Check out my journey below and let's connect on exciting tech adventures!
 
 ## More About me.
+### 😄 Pronouns...
+She/Her
 ### 👩‍💻 Currently working on...
 I am currently trying to be a Data Science professional specializing in Public Health.
 ### 🧠 Currently learning...
@@ -19,25 +21,21 @@ I am looking for help with Biostatistics and genomic data analysis.
 ### 💬 Ask me about...
 Please feel free to ask me about anything related to Python and Data Analysis. I can help you with that.
 ### 📫 How to reach me...
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshi-mirza.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srayoshi-mirza/)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srayoshim/)
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srayoshimirza)
-### 😄 Pronouns...
-She/Her
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshi-mirza.github.io)
+- [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srayoshimirza)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srayoshi-mirza/)
+- [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srayoshim/)
 ### ⚡️ Fun fact...
-
 - Painter
 - Graphics Designer
-![adobe creative cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  - ![adobe creative cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+  - ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+  - ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - Gamer (Likes to Play Games)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-![origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
+  - ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+  - ![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+  - ![origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
 - Blog Writer
-
 ## 🛠 Skills
 ### Analytical Skills
 ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +46,7 @@ She/Her
 - SciPy
 - Seaborn
 - NumPy
-  
+
 ### Visualization
 - [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/srayoshi.mirza)
 - Excel

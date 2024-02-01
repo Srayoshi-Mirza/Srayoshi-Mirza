@@ -9,15 +9,15 @@ Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for craftin
 
 ## More About me.
 ### 👩‍💻 Currently working on...
-I am currently trying to be a Data Science professional who specializes in Public Health.
+I am currently trying to be a Data Science professional specializing in Public Health.
 ### 🧠 Currently learning...
 I am currently learning about Genomic Data Science and Biostatistics.
 ### 👯‍♀️ Looking to collaborate on...
-I am currently looking for an opportunity to collab with any Genomic Data Analyst or Biostatistics specialist to help on their project to exceed own skills and learn from them.
+I am currently looking for an opportunity to collaborate with any Genomic Data Analyst or Biostatistics specialist to help on their project to exceed own skills and learn from them.
 ### 🤔 Looking for help with...
-Looking for help with Biostatistics and genomic data analysis.
+I am looking for help with Biostatistics and genomic data analysis.
 ### 💬 Ask me about...
-You Can ask me about anything related to Python and Data Analysis. I can help you with that.
+Please feel free to ask me about anything related to Python and Data Analysis. I can help you with that.
 ### 📫 How to reach me...
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshi-mirza.github.io)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srayoshi-mirza/)
@@ -29,10 +29,10 @@ She/Her
 
 - Painter
 - Graphics Designer
-![adobe cleative cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![adobe creative cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- Gamer (Likes to Play Game on)
+- Gamer (Likes to Play Games)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ![origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
@@ -48,7 +48,11 @@ She/Her
 - SciPy
 - Seaborn
 - NumPy
-[![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/srayoshi.mirza)
+  
+### Visualization
+- [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/srayoshi.mirza)
+- Excel
+- PowerBI
 
 ### Artifical Inteligence
 ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

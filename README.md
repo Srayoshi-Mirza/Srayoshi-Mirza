@@ -6,11 +6,13 @@
 # I am Srayoshi! 👋
 
 Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for crafting compelling narratives. Currently pursuing a Master's in Applied Statistics & Data Science at Jahangirnagar University, I graduated in Computer Science and Engineering from Bangladesh Army University of Engineering and Technology. My writing style, blending creativity with clarity, extends beyond words into code. Proficient in Python and a suite of libraries like Pandas, NumPy, and TensorFlow, I thrive on transforming complex data into actionable insights. My projects, from crafting a South Asian COVID-19 Dashboard to delving into AI/ML, reflect my commitment to impactful storytelling and innovative problem-solving. Check out my journey below and let's connect on exciting tech adventures!
+
 <div>
   <a href="https://github.com/Srayoshi-Mirza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera-Perera&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera-Perera&layout=compact&langs_count=10&theme=radical&count_private=true&exclude_repo=frintter,kingburger"/>
 <div>
+
+  
 ## More About me.
 ### 😄 Pronouns...
 She/Her

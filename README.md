@@ -10,7 +10,7 @@ Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for craftin
 <div align="center">
   <a href="https://github.com/Srayoshi-Mirza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srayoshi-Mirza&layout=compact&langs_count=10&theme=radical&count_private=true&exclude_repo=frintter,kingburger"/>
-<div>
+  </a></div>
 
   
 ## More About me.

@@ -64,7 +64,7 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 
 <table>
   <tr>
-    <td width="50%" style="vertical-align: super;">
+    <td style="vertical-align: super;">
       
 ### Analytical Skills
 ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -85,7 +85,7 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 - ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
     </td>
-    <td width="50%" style="vertical-align: super;">
+    <td style="vertical-align: super;">
 ### Database
 - ![mysql](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)

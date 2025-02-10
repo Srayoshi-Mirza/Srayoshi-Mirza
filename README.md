@@ -65,6 +65,7 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 <table>
   <tr>
     <td width="50%" style="vertical-align: super;">
+      
 ### Analytical Skills
 ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Pandas

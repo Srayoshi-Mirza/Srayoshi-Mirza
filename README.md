@@ -28,10 +28,8 @@ I am currently learning about Genomic Data Science and Biostatistics.
 
 ### 👯‍♀️ Looking to collaborate on...
 I am currently looking for an opportunity to collaborate with any Genomic Data Analyst or Biostatistics specialist to help on their project to exceed own skills and learn from them.
-
     </td>
     <td>
-
 ### 🤔 Looking for help with...
 I am looking for help with Biostatistics and genomic data analysis.
 
@@ -49,7 +47,6 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
   - ![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)  
   - ![origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)  
 - Blog Writer
-
     </td>
   </tr>
 </table>

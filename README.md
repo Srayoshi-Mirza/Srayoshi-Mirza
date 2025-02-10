@@ -61,7 +61,8 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 - [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srayoshim/)
 
 ## 🛠 Skills
-### Analytical Skills
+
+| Analytical Skills                                                               |                                                     |                                                    |                                                |
 | Python                                | R                                       | Visualization                                       | Artificial Intelligence                            | Database                                        |
 |---------------------------------------|-----------------------------------------|----------------------------------------------------|----------------------------------------------------|------------------------------------------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)   | - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) [Tableau Profile](https://public.tableau.com/app/profile/srayoshi.mirza) <br> - Excel <br> - PowerBI <br> - Apache Superset  | - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <br> - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) | - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |

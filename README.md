@@ -11,7 +11,8 @@ Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for craftin
   <a href="https://github.com/Srayoshi-Mirza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srayoshi-Mirza&layout=compact&langs_count=10&theme=radical&count_private=true&exclude_repo=frintter,kingburger"/>
   </a></div>
-
+  
+![Visitor Count](https://profile-counter.glitch.me/{Srayoshi-Mirza}/count.svg)
   
 ## More About Me
 
@@ -54,10 +55,6 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
     </td>
   </tr>
 </table>
-
-
-
-
 
 ### 📫 How to reach me...
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshi-mirza.github.io)

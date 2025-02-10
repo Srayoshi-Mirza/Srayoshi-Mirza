@@ -63,7 +63,9 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 ## 🛠 Skills
   <table>
             <tr>
-                <td colspan="2"> ### Analytical Skiils</td>
+                <td colspan="2"> 
+                  ### Analytical Skiils
+                </td>
                 <td> ### Visualization</td> 
                 <td> ### Artificial Intelligence </td> 
                 <td> ### Database </td> 

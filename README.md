@@ -13,7 +13,7 @@ Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for craftin
   </a></div>
 
   
-## More About me.
+<div align="center"> ## More About me. </div>
 <table>
   <tr>
     <td style="width: 50%;">

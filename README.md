@@ -15,9 +15,10 @@ Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for craftin
   
 ## More About Me
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 10px;">
+      
 ### 😄 Pronouns...
 She/Her
 
@@ -35,10 +36,9 @@ I am looking for help with Biostatistics and genomic data analysis.
 
 ### 💬 Ask me about...
 Please feel free to ask me about anything related to Python and Data Analysis. I can help you with that.
-
-  </div>
-  <div style="width: 48%;">
-
+    </td>
+    <td style="width: 50%; vertical-align: top; padding-left: 10px;">
+    
 ### ⚡️ Fun fact...
 - Painter
 - Graphics Designer  
@@ -51,8 +51,10 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
   - ![origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)  
 - Blog Writer
 
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
 
 
 

@@ -28,14 +28,13 @@ I am currently learning about Genomic Data Science and Biostatistics.
 
 ### 👯‍♀️ Looking to collaborate on...
 I am currently looking for an opportunity to collaborate with any Genomic Data Analyst or Biostatistics specialist to help on their project to exceed own skills and learn from them.
-    </td>
-    <td>
 ### 🤔 Looking for help with...
 I am looking for help with Biostatistics and genomic data analysis.
 
 ### 💬 Ask me about...
 Please feel free to ask me about anything related to Python and Data Analysis. I can help you with that.
-
+    </td>
+    <td>
 ### ⚡️ Fun fact...
 - Painter
 - Graphics Designer  

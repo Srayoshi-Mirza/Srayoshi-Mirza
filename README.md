@@ -61,61 +61,10 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 - [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srayoshim/)
 
 ## 🛠 Skills
-  <table>
-            <tr>
-                <td colspan="2"> 
-                  ### Analytical Skiils
-                </td>
-                <td> ### Visualization</td> 
-                <td> ### Artificial Intelligence </td> 
-                <td> ### Database </td> 
-            </tr>
-            <tr>
-                <th>
-                    ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-                </th>
-                <th>
-                    ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-                </th>
-                <th>
-                    - [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/srayoshi.mirza)
-                    - Excel
-                    - PowerBI</li>
-                    - Apache Superset
-            </th>
-                <th>
-                    - ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-                    - ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-                </th>
-                <th>
-                    - ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-                    - ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-                </th>
-                </tr>
-            <tr>
-                <td>
-                    - Pandas
-                    - Matplotlib
-                    - Scikit-learn
-                    - BeautifulSoup
-                    - SciPy
-                    - Seaborn
-                    - NumPy
-                </td>
-                <td>   
-                <ul>  
-                    - dplyr</li>
-                    - ggplot2</li>
-                    - stringr</li>
-                    - forcats</li>
-                    - plotly</li>
-                    - forecast</li>
-                    - statmod</li>
-                    - survival</li>
-                    <li>SPSS</li>
-                  </ul></td>
-            </tr>
-     </table>
+| **Analytical Skills** | **Visualization** | **Artificial Intelligence** | **Database** |
+|-----------------------|-------------------|-----------------------------|--------------|
+| ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | - [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/srayoshi.mirza) <br>- Excel <br>- PowerBI <br>- Apache Superset | - ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <br>- ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) |
+| - Pandas <br>- Matplotlib <br>- Scikit-learn <br>- BeautifulSoup <br>- SciPy <br>- Seaborn <br>- NumPy | - dplyr <br>- ggplot2 <br>- stringr <br>- forcats <br>- plotly <br>- forecast <br>- statmod <br>- survival <br>- SPSS | | - ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br>- ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
 
 

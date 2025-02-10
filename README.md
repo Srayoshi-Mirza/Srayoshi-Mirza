@@ -75,26 +75,28 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 - SciPy
 - Seaborn
 - NumPy
-
+    </td>
+      <td style="vertical-align: top; width: 50%; padding-right: 10px;">
 ### Visualization
 - [![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/srayoshi.mirza)
 - Excel
 - PowerBI
-
+    </td>
+          <td style="vertical-align: top; width: 50%; padding-right: 10px;">
 ### Artificial Intelligence
 - ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
     </td>
-    <td style="vertical-align: top; width: 50%; padding-left: 10px;">
     
+    <td style="vertical-align: top; width: 50%; padding-left: 10px;">
 ### Database
 - ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-
+    </td>
+        <td style="vertical-align: top; width: 50%; padding-left: 10px;">
 ### Learning
 - ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 - SPSS
-
     </td>
   </tr>
 </table>

@@ -35,7 +35,6 @@ I am looking for help with Biostatistics and genomic data analysis.
 
 ### 💬 Ask me about...
 Please feel free to ask me about anything related to Python and Data Analysis. I can help you with that.
-
     </td>
     <td style="width: 50%;">
       

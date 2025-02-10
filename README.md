@@ -4,7 +4,7 @@
 ![Cover](1697389551039.jpg)
 
 # I am Srayoshi! 👋  
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{Srayoshi-Mirza}/count.svg)
+## Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{Srayoshi-Mirza}/count.svg)
 
   <table>
             <tr>

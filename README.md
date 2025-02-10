@@ -17,7 +17,7 @@ Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for craftin
 
 <table>
   <tr>
-    <td width="50%" style="vertical-align: super;">
+    <td width="60%" style="vertical-align: super;">
       
 ### 😄 Pronouns...
 She/Her
@@ -37,7 +37,7 @@ I am looking for help with Biostatistics and genomic data analysis.
 ### 💬 Ask me about...
 Please feel free to ask me about anything related to Python and Data Analysis. I can help you with that.
     </td>
-    <td width="50%" style="vertical-align: super;">
+    <td width="40%" style="vertical-align: super;">
     
 ### ⚡️ Fun fact...
 - Painter

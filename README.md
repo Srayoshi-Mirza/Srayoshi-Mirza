@@ -3,7 +3,7 @@
 
 ![Cover](1697389551039.jpg)
 
-# I am Srayoshi! 👋
+# I am Srayoshi! 👋            Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{Srayoshi-Mirza}/count.svg)
 
 Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for crafting compelling narratives. Currently pursuing a Master's in Applied Statistics & Data Science at Jahangirnagar University, I graduated in Computer Science and Engineering from Bangladesh Army University of Engineering and Technology. My writing style, blending creativity with clarity, extends beyond words into code. Proficient in Python and a suite of libraries like Pandas, NumPy, Seaborn, scikit-learn, Matplotlib, TensorFlow, and Keras, I thrive on transforming complex data into actionable insights. My projects, ranging from data-driven analysis to exploring AI/ML, reflect my commitment to impactful storytelling and innovative problem-solving. Check out my journey below and let's connect on exciting tech adventures!
 
@@ -11,9 +11,7 @@ Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for craftin
   <a href="https://github.com/Srayoshi-Mirza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srayoshi-Mirza&layout=compact&langs_count=10&theme=radical&count_private=true&exclude_repo=frintter,kingburger"/>
   </a></div>
-  
-![Visitor Count](https://profile-counter.glitch.me/{Srayoshi-Mirza}/count.svg)
-  
+    
 ## More About Me
 
 <table>
@@ -63,6 +61,10 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 - [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srayoshim/)
 
 ## 🛠 Skills
+
+<table>
+  <tr>
+    <td width="50%" style="vertical-align: super;">
 ### Analytical Skills
 ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Pandas
@@ -81,7 +83,8 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 ### Artifical Inteligence
 - ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
+    </td>
+    <td width="50%" style="vertical-align: super;">
 ### Database
 - ![mysql](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
@@ -89,5 +92,11 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 ### Learning
 - ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 - SPSS
+    </td>
+  </tr>
+</table>
+
+
+
 
 

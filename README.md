@@ -37,7 +37,7 @@ I am looking for help with Biostatistics and genomic data analysis.
 Please feel free to ask me about anything related to Python and Data Analysis. I can help you with that.
     </td>
     <td style="width: 50%;">
-      
+    
 ### ⚡️ Fun fact...
 - Painter
 - Graphics Designer  
@@ -49,7 +49,6 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
   - ![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)  
   - ![origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)  
 - Blog Writer
-
     </td>
   </tr>
 </table>

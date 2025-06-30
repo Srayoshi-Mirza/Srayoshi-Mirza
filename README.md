@@ -10,7 +10,7 @@
             <tr>
                 <td width="65%""> 
                  <p align="justify">
-Hey there! I'm Srayoshi Bashed Mirza, a tech enthusiast with a knack for crafting compelling narratives. Currently pursuing a Master's in Applied Statistics & Data Science at Jahangirnagar University, I graduated in Computer Science and Engineering from Bangladesh Army University of Engineering and Technology. My writing style, blending creativity with clarity, extends beyond words into code. Proficient in Python and a suite of libraries like Pandas, NumPy, Seaborn, scikit-learn, Matplotlib, TensorFlow, and Keras, I thrive on transforming complex data into actionable insights. My projects, ranging from data-driven analysis to exploring AI/ML, reflect my commitment to impactful storytelling and innovative problem-solving. Check out my journey below and let's connect on exciting tech adventures!
+Hi! I’m Srayoshi Bashed Mirza, a data enthusiast with a background in Computer Science and a Master’s in Applied Statistics & Data Science. I work at the intersection of Data Analysis, Machine Learning, and Data Engineering, using tools like Python, Pandas, scikit-learn, TensorFlow, and Keras. I also build robust ETL pipelines using Apache Airflow, Kafka, and SQL. My interests span from AI in Public Health to crafting clean, scalable data workflows. I’m all about transforming raw data into powerful insights that drive action.
                 </p>
                 </td> 
                 <td> 

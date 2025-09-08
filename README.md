@@ -69,7 +69,7 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 
 # Data Science & Engineering Skills
 
-| Python | R | Data Engineering | Visualization | Database | AI/ML | Analytics |
+| Python Libaries | R Libraries | Data Engineering | Visualization | Database | AI/ML | Analytics |
 |--------|---|------------------|---------------|----------|-------|-----------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=E25A1C) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | SPSS |
 | • Pandas | • dplyr | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | • [Tableau Profile](https://public.tableau.com/app/profile/srayoshi.mirza) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | • Excel |

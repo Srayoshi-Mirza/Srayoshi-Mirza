@@ -4,7 +4,6 @@
 ![Cover](1697389551039.jpg)
 
 # I am Srayoshi! 👋  
-## Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Srayoshi-Mirza/countntime)
 
   <table>
             <tr>
@@ -60,6 +59,7 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
   - ![epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)  
   - ![origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)  
 - Blog Writer
+-  [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srayoshimirza)
 
     </td>
   </tr>
@@ -83,8 +83,7 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 
 
 ### 📫 How to reach me...
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshi-mirza.github.io)
-- [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srayoshimirza)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srayoshimirza.netlify.app)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srayoshi-mirza/)
 - [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srayoshim/)
 

@@ -67,19 +67,19 @@ Please feel free to ask me about anything related to Python and Data Analysis. I
 
 ## 🛠 Skills
 
-# Analytical Skills
+# Data Science & Engineering Skills
 
-| Python                                | R                                       | Visualization                                       | Artificial Intelligence                            | Database                                        | Analytical Skills |
-|---------------------------------------|-----------------------------------------|----------------------------------------------------|----------------------------------------------------|------------------------------------------------|-------------------------------------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)   | - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) -> [Tableau Profile](https://public.tableau.com/app/profile/srayoshi.mirza)   | - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  | SPSS |
-| - Pandas                              | - dplyr                                  | - Excel                                           | - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)                                                | - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)                                               |  |
-| - Matplotlib                          | - ggplot2                               | - PowerBI                                          |                                                    |                                                |  |
-| - Scikit-learn                        | - stringr                               | - Apache Superset                                  |                                                    |                                                |  |
-| - BeautifulSoup                       | - forcats                               |                                                    |                                                    |                                                |  |
-| - SciPy                               | - plotly                                |                                                    |                                                    |                                                |  |
-| - Seaborn                             | - forecast                              |                                                    |                                                    |                                                |  |
-| - NumPy                               | - statmod                               |                                                    |                                                    |                                                |  |
-|                                       | - survival                              |                                                    |                                                    |                                                |  |
+| Python | R | Data Engineering | Visualization | Database | AI/ML | Analytics |
+|--------|---|------------------|---------------|----------|-------|-----------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=E25A1C) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | SPSS |
+| • Pandas | • dplyr | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | • [Tableau Profile](https://public.tableau.com/app/profile/srayoshi.mirza) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |  |
+| • NumPy | • ggplot2 | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) | • Excel |  |  |  |
+| • Matplotlib | • stringr | • ETL/ELT | • PowerBI |  |  |  |
+| • Seaborn | • forcats | • Pipeline Design | ![Apache Superset](https://img.shields.io/badge/Apache_Superset-40E0D0?style=for-the-badge&logo=apache&logoColor=white) |  |  |  |
+| • Scikit-learn | • plotly |  |  |  |  |  |
+| • BeautifulSoup | • forecast |  |  |  |  |  |
+| • SciPy | • statmod |  |  |  |  |  |
+|  | • survival |  |  |  |  |  |                                     | - survival                              |                                                    |                                                    |                                                |  |
 
 
 ### 📫 How to reach me...

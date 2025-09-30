@@ -33,7 +33,7 @@ Hi! I'm <strong>Srayoshi Bashed Mirza</strong>, a passionate data enthusiast wit
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srayoshi-Mirza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Srayoshi-Mirza&theme=radical&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D&cache_bust=20240929"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Srayoshi-Mirza&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💼 Current Focus

@@ -16,7 +16,7 @@
 <p align="justify">
 Hi! I'm <strong>Srayoshi Bashed Mirza</strong>, a passionate data enthusiast with a Computer Science background and Master's in Applied Statistics & Data Science. I specialize in transforming complex data into actionable insights at the intersection of <strong>Data Analysis</strong>, <strong>Machine Learning</strong>, and <strong>Data Engineering</strong>.
 
-- Currently focusing on <strong>Upskelling my skills</strong> in <strong>Data Science</strong>
+- Currently focusing on <strong>Upskilling my skills</strong> in <strong>Data Science</strong>
 
 🔬 Learning more about <strong>AI in Public Health</strong> and <strong>Genomic Data Science</strong>
 
@@ -25,15 +25,15 @@ Hi! I'm <strong>Srayoshi Bashed Mirza</strong>, a passionate data enthusiast wit
 </td>
 <td width="35%">
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srayoshi-Mirza&layout=compact&langs_count=8&theme=radical&count_private=true&exclude_repo=frintter,kingburger"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srayoshi-Mirza&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
 </div>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srayoshi-Mirza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=Srayoshi-Mirza&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srayoshi-Mirza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Srayoshi-Mirza&theme=radical&hide_border=true&background=0D1117"/>
 </div>
 
 ## 💼 Current Focus
@@ -90,6 +90,12 @@ Hi! I'm <strong>Srayoshi Bashed Mirza</strong>, a passionate data enthusiast wit
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ![Origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srayoshi-Mirza&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
 
 ## 🤝 Let's Connect & Collaborate!
 
